@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gustavo\\Documents\\GitHub\\.NET\\ProductClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC1A88D-BA23-4E3F-858A-A34A12A00284}|ProductClient.API\\ProductClient.API.csproj|c:\\users\\gustavo\\documents\\github\\.net\\productclient\\productclient.api\\productclient.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6AC1A88D-BA23-4E3F-858A-A34A12A00284}|ProductClient.API\\ProductClient.API.csproj|solutionrelative:productclient.api\\productclient.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC1A88D-BA23-4E3F-858A-A34A12A00284}|ProductClient.API\\ProductClient.API.csproj|c:\\users\\gustavo\\documents\\github\\.net\\productclient\\productclient.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC1A88D-BA23-4E3F-858A-A34A12A00284}|ProductClient.API\\ProductClient.API.csproj|solutionrelative:productclient.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 164,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductClient.API",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\GitHub\\.NET\\ProductClient\\ProductClient.API\\ProductClient.API.csproj",
+              "RelativeDocumentMoniker": "ProductClient.API\\ProductClient.API.csproj",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\GitHub\\.NET\\ProductClient\\ProductClient.API\\ProductClient.API.csproj",
+              "RelativeToolTip": "ProductClient.API\\ProductClient.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-22T20:46:48.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\GitHub\\.NET\\ProductClient\\ProductClient.API\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "ProductClient.API\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\GitHub\\.NET\\ProductClient\\ProductClient.API\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "ProductClient.API\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T20:23:29.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
